@@ -23,6 +23,7 @@ gem 'therubyracer', platforms: :ruby
 gem 'sidekiq'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'dotenv-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
